@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="activity_login">"LOGIN"</string>
+    <string name="Welcome_Page">Welcome Page</string>
+</resources>
